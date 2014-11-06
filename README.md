@@ -3,8 +3,7 @@ Car and Road
 Car and Road game is being programmed with Lua and LÖVE2D 0.8.0 library following the iterative development model.
 I'm programming it with the intention of teaching others how to program in Lua and LÖVE2D while having fun with it.
 
-![Mars Invaders screenshot](image 1.png)
-![Mars Invaders screenshot2](image 2.png)
+![Car and Road screenshot](image 1.png)
 
 <i>NOTE: The game is still in progress as of now.</i>
 
